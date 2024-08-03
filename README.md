@@ -1,8 +1,8 @@
-**MIT-504: Technology and Project Management**
+# **MIT-504: Technology and Project Management**
 
 https://github.com/user-attachments/assets/84beb738-eff9-4dab-b597-90caeca4dbfe
 
-**Decision Trees**
+# **Decision Trees**
 
 **Decision Trees** are a non-parametric supervised learning method used for classification and regression. The goal is to create a model that predicts the value of a target variable by learning simple decision rules inferred from the data features. A tree can be seen as a piecewise constant approximation.
 
